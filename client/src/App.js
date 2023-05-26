@@ -4,7 +4,7 @@ import {
   Switch,
   Route,
   Redirect,
-} from "react-router-dom"
+} from "react-router-dom";
 import { v4 as uuidV4 } from "uuid"
 
 
